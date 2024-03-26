@@ -49,7 +49,7 @@ const Projects = () => {
             technologies: ['React', 'NextJS', 'Tailwind', 'Framer Motion'],
             links: {
                 demo: '',
-                github: '',
+                github: 'https://github.com/nocreepsho/shobhit-portfolio',
             }
         }
     ]
