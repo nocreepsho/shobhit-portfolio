@@ -24,7 +24,7 @@ const Experience = () => {
 
     const experience = [
         {
-            title: 'Software Eingineer - AI Training',
+            title: 'Software Engineer - AI Training',
             company: 'Outlier',
             duration: '2024 - Present',
             description: [
