@@ -24,9 +24,20 @@ const Experience = () => {
 
     const experience = [
         {
+            title: 'Software Eingineer - AI Training',
+            company: 'Outlier',
+            duration: '2024 - Present',
+            description: [
+                "Facilitated AI training using Reinforcement learning through human feedback (RLHF)",
+                "Developed complex and challenging software projects/scenarios to test and evaluate AI responses",
+                "Tested and analyzed AI generated code in Python and Javascript",
+                "Reviewed peer evaluations ensuring consistent and accurate assessments"
+            ]
+        },
+        {
             title: 'Software Engineer – Mitacs Accelerate',
             company: 'University of Windsor & Sinai Health, Health Commons Solutions Lab',
-            duration: '2022 - Present',
+            duration: '2022 - 2024',
             description: [
                 "Developed complex MVC web application using MERN stack, increasing user engagement by 30%",
                 "Leveraged NodeJS, React, and MongoDB to implement full-stack features, and deployed the application using Heroku",
@@ -36,14 +47,14 @@ const Experience = () => {
             ]
         },
         {
-            title: 'IT, Logistics & Scheduling Operator',
+            title: 'IT, Logistics & Scheduling Coordinator',
             company: 'Assisted Living Southwestern Ontario',
             duration: '2022 - Present',
             description: [
                 "Designed, developed and published organization’s website using WordPress ensuring complaiance with AODA standards",
-                "Leveraged Microsoft Sharepoint and Power Automate to automate new hire, termination, transfer, and other processes",
+                "Leveraged Microsoft Sharepoint and Power Automate to automate key business processes",
                 "Migrated systems to Microsoft 365 and provided training to senior management",
-                "Operated Scheduling software AlayaCare to manage staff and client schedules, and perform data exploration",
+                "Managed Microsoft Teams, Microsoft Entra Identity, Power sites and power apps",
                 "Provided IT assistance to internal stakeholders, troubleshooting issues and swiftly resolving them to ensure minimal disruptions to operations"
 
             ]
